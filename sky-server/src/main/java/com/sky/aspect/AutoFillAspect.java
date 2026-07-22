@@ -61,7 +61,7 @@ public class AutoFillAspect {
                 e.printStackTrace();
             }
         }
-        log.info("开始进行公共字段自动填充....");
+        log.info("开始进行公共字段自动填充");
     }
 
 }
